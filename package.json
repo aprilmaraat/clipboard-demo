@@ -1,0 +1,23 @@
+{
+  "name": "clipboard-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aprilmaraat/clipboard-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aprilmaraat/clipboard-demo/issues"
+  },
+  "homepage": "https://github.com/aprilmaraat/clipboard-demo#readme",
+  "devDependencies": {
+    "electron-prebuilt": "^1.4.13"
+  }
+}
